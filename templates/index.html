@@ -29,7 +29,14 @@
 
                     <input class="form-control custom-input mb-2" name="Delivery_person_Age" placeholder="Delivery Age" required>
                     <input class="form-control custom-input mb-2" name="Delivery_person_Ratings" placeholder="Ratings" required>
-                    <input class="form-control custom-input mb-2" name="Vehicle_condition" placeholder="Vehicle Condition (0-3)" required>
+            
+                    <select class="form-select custom-input mb-2" name="Vehicle_condition",placeholder="Vehicle Condition" required>
+                        <option value="" disabled selected hidden>Select Vehicle Condition</option>
+                        <option value=0>Poor</option>
+                        <option value=1>Average</option>
+                        <option value=2>Good</option>
+                        <option value=3>Excellent</option>
+                    </select>
                     <input class="form-control custom-input mb-2" name="multiple_deliveries" placeholder="Multiple Deliveries" required>
                     <input class="form-control custom-input mb-2" name="distance_km" placeholder="Distance (km)" required>
                     <input class="form-control custom-input mb-2" name="pickup_delay_minutes" placeholder="Pickup Delay (min)" required>
