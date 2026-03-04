@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dsasu/Desktop/DATASUTRAM/MJ/Zomato Delivery Time Prediction/mlruns/187748540777716303/29a0e8e1140e475f84fe6231568c97f9/artifacts
+end_time: 1772354889932
+entry_point_name: ''
+experiment_id: '187748540777716303'
+lifecycle_stage: active
+run_id: 29a0e8e1140e475f84fe6231568c97f9
+run_name: Ridge (alpha = 10)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772354876909
+status: 3
+tags: []
+user_id: dsasu

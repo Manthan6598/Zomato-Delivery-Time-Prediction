@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/dsasu/Desktop/DATASUTRAM/MJ/Zomato Delivery Time Prediction/mlruns/187748540777716303/models/m-48984d6e0d674e23bf9fd02c47b95900/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+    skops_trusted_types: null
+mlflow_version: 3.10.0
+model_id: m-48984d6e0d674e23bf9fd02c47b95900
+model_size_bytes: 262203
+model_uuid: m-48984d6e0d674e23bf9fd02c47b95900
+prompts: null
+run_id: 7911e7cac85147e89cbc3b7032297fd1
+utc_time_created: '2026-03-01 08:52:12.146952'

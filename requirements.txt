@@ -1,0 +1,45 @@
+# Core ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Model saving/loading
+joblib==1.4.2
+
+# FastAPI and API serving
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.8.2
+
+# Data validation
+python-multipart==0.0.9
+
+# Logging and utilities
+pyyaml==6.0.2
+
+# Kaggle dataset download
+kaggle==1.6.17
+
+# Visualization (optional but useful)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Progress bars
+tqdm==4.66.5
+
+# HTTP requests
+requests==2.32.3
+
+# Production server
+gunicorn==22.0.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# MlFLow
+mlflow 
+
+# XgBoost
+xgboost
+

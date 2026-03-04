@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/dsasu/Desktop/DATASUTRAM/MJ/Zomato Delivery Time
+  Prediction/mlruns/187748540777716303/models/m-48984d6e0d674e23bf9fd02c47b95900/artifacts
+creation_timestamp: 1772355131891
+experiment_id: '187748540777716303'
+last_updated_timestamp: 1772355143722
+model_id: m-48984d6e0d674e23bf9fd02c47b95900
+model_type: null
+name: model
+source_run_id: 7911e7cac85147e89cbc3b7032297fd1
+status: 2
+status_message: null

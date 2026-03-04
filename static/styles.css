@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(135deg, #0f0f0f, #1c1c1c);
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.brand-title {
+    color: #E23744;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.subtitle {
+    color: #bbb;
+}
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+.section-title {
+    color: #E23744;
+}
+
+.custom-input {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white !important;
+}
+
+.custom-input::placeholder {
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.custom-input:focus {
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid #E23744;
+    color: white !important;
+    box-shadow: none;
+}
+
+
+select.custom-input {
+    color: white !important;
+}
+
+select.custom-input option {
+    background-color: #1c1c1c;
+    color: white;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+    -webkit-text-fill-color: white;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.custom-btn {
+    background-color: #E23744;
+    border: none;
+}
+
+.custom-btn:hover {
+    background-color: #c12d3b;
+}
+
+.prediction-value {
+    font-size: 60px;
+    font-weight: bold;
+    color: #E23744;
+}
+
+.risk-badge {
+    margin-top: 15px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.confidence-text {
+    margin-top: 15px;
+    color: #bbb;
+}
+
+.placeholder-text {
+    color: #777;
+}

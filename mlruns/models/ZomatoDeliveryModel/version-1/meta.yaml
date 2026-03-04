@@ -1,0 +1,17 @@
+creation_timestamp: 1772355384837
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1772355734530
+model_id: m-a42d8a155661474796ebd13cc54f7f49
+name: ZomatoDeliveryModel
+run_id: 125c2e3cd7364d58a8fd3616f23d3148
+run_link: null
+source: models:/m-a42d8a155661474796ebd13cc54f7f49
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dsasu/Desktop/DATASUTRAM/MJ/Zomato Delivery Time
+  Prediction/mlruns/187748540777716303/models/m-a42d8a155661474796ebd13cc54f7f49/artifacts
+user_id: null
+version: 1
+workspace: default

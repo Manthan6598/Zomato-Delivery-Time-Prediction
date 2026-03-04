@@ -1,0 +1,26 @@
+[2026-02-24 17:24:31,310] INFO - zomato_ml_logger - Loading Model.....
+[2026-02-24 17:26:34,906] INFO - zomato_ml_logger - Start Data Ingestion....
+[2026-02-24 17:26:34,906] INFO - zomato_ml_logger - Loading file: dataset/raw\Zomato Dataset.csv
+[2026-02-24 17:26:34,984] INFO - zomato_ml_logger - Data Loaded Successfully...!
+[2026-02-24 17:26:34,984] INFO - zomato_ml_logger - Shape: {df.shape}
+[2026-02-24 17:26:34,990] ERROR - zomato_ml_logger - Error saving processed data : Cannot save file into a non-existent directory: 'PROCESSED_DATA_PATH'
+[2026-02-24 17:28:24,671] INFO - zomato_ml_logger - Start Data Ingestion....
+[2026-02-24 17:28:24,673] INFO - zomato_ml_logger - Loading file: dataset/raw\Zomato Dataset.csv
+[2026-02-24 17:28:24,743] INFO - zomato_ml_logger - Data Loaded Successfully...!
+[2026-02-24 17:28:24,744] INFO - zomato_ml_logger - Shape: {df.shape}
+[2026-02-24 17:28:24,745] ERROR - zomato_ml_logger - Error saving processed data : Cannot save file into a non-existent directory: 'PROCESSED_DATA_PATH'
+[2026-02-24 17:31:14,390] INFO - zomato_ml_logger - Start Data Ingestion....
+[2026-02-24 17:31:14,390] INFO - zomato_ml_logger - Loading file: dataset/raw\Zomato Dataset.csv
+[2026-02-24 17:31:14,460] INFO - zomato_ml_logger - Data Loaded Successfully...!
+[2026-02-24 17:31:14,460] INFO - zomato_ml_logger - Shape: {df.shape}
+[2026-02-24 17:31:14,768] INFO - zomato_ml_logger - Processed data saved at data/processed\processed_data.csv
+[2026-02-24 18:21:11,176] INFO - zomato_ml_logger - Loading Model.....
+[2026-02-24 18:21:11,876] INFO - zomato_ml_logger - Model Loaded Successfully....
+[2026-02-24 18:21:11,876] INFO - zomato_ml_logger - Creating Data From input
+[2026-02-24 18:21:11,876] INFO - zomato_ml_logger - Prediction is in progress..
+[2026-02-24 18:21:11,881] INFO - zomato_ml_logger - Prediction Successful: -1085529379673.458
+[2026-02-24 18:34:36,193] INFO - zomato_ml_logger - Loading Model.....
+[2026-02-24 18:34:36,931] INFO - zomato_ml_logger - Model Loaded Successfully....
+[2026-02-24 18:34:36,931] INFO - zomato_ml_logger - Creating DataFrame from input
+[2026-02-24 18:34:36,933] INFO - zomato_ml_logger - Prediction is in progress..
+[2026-02-24 18:34:36,938] INFO - zomato_ml_logger - Prediction Successful: 29.3779296875

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dsasu/Desktop/DATASUTRAM/MJ/Zomato Delivery Time Prediction/mlruns/187748540777716303/3eec8f4c4e1d46f5a9424e7b09bd139f/artifacts
+end_time: 1772355116710
+entry_point_name: ''
+experiment_id: '187748540777716303'
+lifecycle_stage: active
+run_id: 3eec8f4c4e1d46f5a9424e7b09bd139f
+run_name: DecisionTree depth=15 split=10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772355103314
+status: 3
+tags: []
+user_id: dsasu
