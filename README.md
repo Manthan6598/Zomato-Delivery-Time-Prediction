@@ -151,7 +151,6 @@ The trained model is deployed using **FastAPI** to provide real-time predictions
 ### Clone the Repository
 ```
 git clone https://github.com/Manthan6598/Zomato-Delivery-Time-Prediction.git
-
 cd Zomato-Delivery-Time-Prediction
 ```
 
@@ -159,7 +158,6 @@ cd Zomato-Delivery-Time-Prediction
 
 ```
 pip install -r requirements.txt
-
 ```
 
 
@@ -167,7 +165,6 @@ pip install -r requirements.txt
 
 ```
 uvicorn app:app --reload
-
 ```
 
 
@@ -195,30 +192,13 @@ http://localhost:8000
 
 ---
 
-## Project Structure
+## Project Structure : 
 
-Zomato-Delivery-Time-Prediction
-│
-├── data
-│
-├── mlruns
-│ MLflow experiment tracking
-│
-├── src
-│ ├── features
-│ ├── models
-│ │ ├── train.py
-│ │ └── predict.py
-│ └── utils
-│
-├── templates
-│
-├── static
-│
-├── app.py
-├── Dockerfile
-├── requirements.txt
-└── README.md
+<img width="456" height="390" alt="image" src="https://github.com/user-attachments/assets/782592d5-e008-4572-bb20-a9786f0d6450" />
+
+## Project Architecture :
+
+<img width="484" height="244" alt="image" src="https://github.com/user-attachments/assets/bed0c082-78a6-4d38-84df-64cc70e7713b" />
 
 AWS EC2 Deployed Link : 
 
