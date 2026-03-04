@@ -202,7 +202,7 @@ http://localhost:8000
 
 AWS EC2 Deployed Link : 
 
-Screenshots:
+Project Preview:
 
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/01fb4284-970c-496d-a170-ed4569f10e8f" />
 
