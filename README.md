@@ -204,5 +204,10 @@ AWS EC2 Deployed Link :
 
 Project Preview:
 
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/01fb4284-970c-496d-a170-ed4569f10e8f" />
+Preview 1:
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/e008da44-0581-41e6-bf6b-1a6365d7f5fe" />
+
+Preview 2:
+<img width="1913" height="1027" alt="image" src="https://github.com/user-attachments/assets/008b5319-f380-4363-be34-d6b81f22f142" />
+
 
